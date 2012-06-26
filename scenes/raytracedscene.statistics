@@ -1,0 +1,32 @@
+Rays: 
+	Eye:         261121
+	Light:       109578
+	  (Trimmed)  0
+	Reflected:   0
+	Transmitted: 0
+	TOTAL:       370699
+
+Caches: 
+	Shadow: 0 / 0 (nan %)
+
+Intersections (successful/total/%): 
+	Bounding Box: 0 / 0 (nan %)
+	Sphere:       0 / 0 (nan %)
+	Polygon:      1618245 / 17857328 (9.06208 %)
+	Plane:        0 / 0 (nan %)
+	Object:       0 / 0 (nan %)
+
+Pixels: 
+	Screen Pixels: 261121
+	Total Pixels Rendered : 261121
+	Average Pixels Rendered per Screen Pixel: 1
+
+Times: 
+	Preprocessing: 2.06555 sec.
+	Rendering:     1.57161 sec.
+		(Lighting was 0 sec)
+	TOTAL:         3.63716 sec.
+Average Rays/Pixel : 1.41964
+Average Time/Pixel : 0.0060187 ms
+Total memory used : 25 MB
+Total numerical errors : 0

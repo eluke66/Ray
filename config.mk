@@ -1,0 +1,3 @@
+-include ../config_vars.mk
+-include ../vars.mk
+-include ../targets.mk
